@@ -1,3 +1,5 @@
 WPU RESOLUSI
 - Konsisten
 - mencoba membuat sebuah platform
+- berusaha menjadi lebih baik dalam programming
+- belajar PHP, HTML & CSS
